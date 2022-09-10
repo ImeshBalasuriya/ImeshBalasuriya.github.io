@@ -3,115 +3,22 @@ layout: default
 title: "Portfolio"
 ---
 
-# * THIS SITE IS UNDER CONSTRUCTION *
-# Home
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+# About Me<a name="about"></a>
 
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+I am a third-year Computer Engineering undergraduate at the [Department of Computer Engineering, University of Peradeniya](http://www.ce.pdn.ac.lk) with a strong interest in Computer Architecture and Computer Vision.
 
 
-### Definition lists can be used with HTML syntax.
+# Skills and Experience<a name="skills"></a>
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
-```
-The final element.
-```
+
+# Projects<a name="projects"></a>
+
+| ![QuickPark](assets/img/quickpark.png) | **QuickPark -- E-Parking System**<br>*Imesh Balasuriya, [Ravisha Rupasinghe](https://github.com/RavishaHR), [Sandun Perera](https://github.com/sanduu19)*<br>Jul 2021 -- Present<br>[[website](https://cepdnaclk.github.io/e17-3yp-E-Parking-System)][[repo](https://github.com/cepdnaclk/e17-3yp-E-Parking-System)]<br><br>A fully-automated parking system that automatically identifies vehicles, assigns parking spots to them and allows reservation of parking spots for a seamless parking experience. |
+| ![Skim Sequencing](assets/img/skim.png) | **Analytical Software for Next Generation Skim Sequencing Data**<br>*Imesh Balasuriya, [Ravisha Rupasinghe](https://github.com/RavishaHR), [Madhushan Ramalingam](https://github.com/DrMadhushan)*<br>Feb 2022 -- Present<br>[[website](https://cepdnaclk.github.io/e17-co328-Skim-Sequencing-Analysis/)][[repo](https://github.com/cepdnaclk/e17-co328-Skim-Sequencing-Analysis)]<br><br>An open-source toolkit that implements the existing ITS, Mitochondria and Chloroplast sequencing pipelines in a single GUI package. |
+| ![License Plate Analyzer](assets/img/license.png) | **Reconstruction of Highly-Degraded License Plate Images**<br>*Imesh Balasuriya, [Akila Karunanayake](https://github.com/Akilax0), [Achintha Harshamal](https://github.com/AchinthaHarshamal)*<br>Feb 2022 -- Apr 2022<br>[[report]()]<br><br>Demonstration of the effectiveness of traditional image processing techniques in the reconstruction of low-resolution license plate images obtained from CCTV footage. |
+| ![COOL Compiler](assets/img/compiler.png) | **Compiler for COOL Language**<br>*Imesh Balasuriya, [Ravisha Rupasinghe](https://github.com/RavishaHR)*<br>Jan 2022 -- Apr 2022<br>[[repo](https://github.com/ImeshBalasuriya/CO521-COOL-Compiler)]<br><br>A 4-stage compiler from scratch for the COOL programming language comprising of a lexical analyzer, parser, semantic analyzer, and a code generator that generates MIPS assembly code |
+| ![8-bit Single-Cycle Processor](assets/img/processor.png) | **8-bit Single Cycle Processor**<br>*Imesh Balasuriya, [Achintha Harshamal](https://github.com/AchinthaHarshamal)*<br>Jul 2020 -- Oct 2020<br><br>An 8-bit single cycle processor design with a MIPS-style instruction set including an ALU, a register file and control logic and an associated memory architecture with separate data and instruction memory along with their respective caches. |
+| ![Fractal Generator](assets/img/fractal.png) | **Fractal Generator**<br>*Imesh Balasuriya*<br>Nov 2020 -- Dec 2020<br><br>A multi-threaded GUI app that generates the Mandelbrot and Julia sets according to user specifications. |
