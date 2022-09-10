@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "Another Page"
+title: "Projects"
+permalink: "/projects"
 ---
 
 ## Welcome to another page
