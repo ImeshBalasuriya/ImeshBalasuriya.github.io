@@ -11,6 +11,16 @@ I am a third-year Computer Engineering undergraduate at the [Department of Compu
 
 # Skills and Experience<a name="skills"></a>
 
+I am fluent in several programming languages such as **C, Java and Python** and am familiar with languages like **C++ and MATLAB**.
+
+I have a good background in hardware programming with experience developing **ARM Assembly** code, programming microcontrollers using **AVR-C**, and hardware design using **Verilog-HDL**.
+
+I am interested in the fields of **Image Processing** and **Computer Vision**, with hands-on experience in using the **OpenCV** library.
+
+I have also worked as a [Casual Instructor (Teaching Assistant)](https://people.ce.pdn.ac.lk/students/e17/018) at the [Department of Computer Engineering, University of Peradeniya](http://www.ce.pdn.ac.lk) for the Computer Architecture and Digital Design courses.
+
+
+
 
 
 
