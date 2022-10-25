@@ -8,6 +8,7 @@ title: "Portfolio"
 
 I am a third-year Computer Engineering undergraduate at the [Department of Computer Engineering, University of Peradeniya](http://www.ce.pdn.ac.lk) with a strong interest in Computer Architecture and Computer Vision.
 
+<br>
 
 # Skills and Experience<a name="skills"></a>
 
@@ -21,7 +22,7 @@ I have also worked as a [Casual Instructor (Teaching Assistant)](https://people.
 
 
 
-
+<br>
 
 
 # Projects<a name="projects"></a>
