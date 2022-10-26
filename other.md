@@ -9,4 +9,10 @@ permalink: "/other"
 _You shouldn't be here!_
 
 
-[back](./)
+![Definitely not a GIF of Nyan Cat](assets/img/nyan-cat.gif)
+
+
+
+---
+
+[Back to Home](./)
