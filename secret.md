@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Other"
-permalink: "/other"
+title: "Secret"
+permalink: "/secret"
 ---
 
 # Other Page
