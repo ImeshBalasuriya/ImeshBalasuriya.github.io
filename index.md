@@ -14,7 +14,7 @@ I am a final-year Computer Engineering undergraduate at the [Department of Compu
 
 My primary focus lies in **low-level development** and **programming languages** with a solid background in developing **ARM Assembly** code, programming **microcontrollers**, and hardware design using **Verilog-HDL**. I have a good conceptual understanding and practical experience with **compiler design** as well.
 
-I am also interested in **DevOps Engineering** practices with a sound knowledge of CI/CD techniques. I have practical experience working with **GitHub Actions**, **Ansible**, **Jenkins** and cloud service providers (**AWS**, **Azure**, **GCP**), and am familiar with technologies like **Docker**, **Kubernetes** and **Terraform**.
+I am also interested in **DevOps Engineering** practices with a sound knowledge of CI/CD techniques. I have practical experience working with **GitHub Actions**, **Ansible**, **Jenkins** and cloud service providers (**AWS**, **Azure**, **GCP**), and am familiar with technologies like **Docker** and **Kubernetes**.
 
 Additionally, my interests extend to the fields of **Image Processing** and **Computer Vision**, with hands-on experience in using the **OpenCV** library.
 
