@@ -22,10 +22,10 @@ title: Imesh Balasuriya
 email_personal: imesh.bl@gmail.com
 email_academic: e17018@eng.pdn.ac.lk
 description: >- # this means to ignore newlines until "baseurl:"
-  I am a third year Computer Engineering undergraduate with a passion for problem solving 
-  and software development, and a strong interest in Computer Architecture and Computer Vision.
+  I am a final year Computer Engineering undergraduate with a passion for problem solving 
+  and software development, and a strong interest in Computer Architecture and Compilers.
 baseurl: "" # the subpath of your site, e.g. /blog
-domain: imeshbalasuriya.github.io
+domain: imeshb.com
 url: https://imeshbalasuriya.github.io # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: imesh-balasuriya
 github_username:  ImeshBalasuriya
